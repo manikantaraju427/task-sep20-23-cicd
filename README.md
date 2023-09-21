@@ -16,12 +16,11 @@
  #Assign labels and assignees as needed to  assign the task.
  (In this case iam solo contributor this projecr iam assigned my self)
 
- * comments section to communicate any specific requirements
+ * comments section to communicated specific requirements
 
 ### Task 3: Integrating the Feature into the CI/CD Pipeline ###
 
 #Created a new branch for the feature using Git.
-For example:
    
 $git checkout -b feature/new-feature-name
 
