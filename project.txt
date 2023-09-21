@@ -3,3 +3,6 @@ this is my project from guvi  regarding to CI/CD pipeline
 as per my team instructions 
 iam working this code 
 implementd the user registration feature as described in the issue you created.
+
+
+documentation is accurate, clear, and up to date.
